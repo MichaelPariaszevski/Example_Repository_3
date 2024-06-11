@@ -16,9 +16,9 @@ import os
 
 cwd=os.getcwd() 
 
-print("----------------")
+print("-------------")
 print(cwd)
-print("----------------")
+print("-------------")
 
 def main(): 
     @st.cache_data()
